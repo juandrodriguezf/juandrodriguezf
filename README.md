@@ -1,5 +1,29 @@
-Mi nombre es Juan David Rodríguez Franco, tengo 21 años y estudio Ingeniería Mecatrónica e Ingeniería de Sistemas en la Pontificia Universidad Javeriana. Mi formación académica me ha permitido desarrollar una visión integral que combina el diseño de sistemas físicos, el desarrollo de software y el análisis de datos, con un enfoque orientado a la solución de problemas complejos.
-
-Los temas que más me interesan para mi carrera profesional son la **inteligencia artificial** y la **automatización**, ya que se complementan de manera estratégica. La inteligencia artificial aporta herramientas para el aprendizaje automático, la toma de decisiones y la adaptación de sistemas a entornos dinámicos, mientras que la automatización permite implementar estas capacidades en aplicaciones reales mediante sistemas de control, robótica y procesos industriales eficientes.
-
-Mi principal interés está en la creación de **sistemas inteligentes y autónomos**, la **optimización de procesos**, y el desarrollo de soluciones alineadas con los principios de la **industria 4.0**, integrando hardware y software de forma coherente. A largo plazo, aspiro a participar en proyectos tecnológicos innovadores que no solo mejoren la eficiencia y la productividad, sino que también generen un impacto positivo en la sociedad.
+## Sobre mi
+Ingeniero en formacion en **Ingenieria Mecatronica** e **Ingenieria de Sistemas** en la Pontificia Universidad Javeriana. Mi formacion dual me permite integrar hardware, software y analisis de datos para abordar problemas complejos desde una vision holistica.
+- **Edad:** 22 años
+- **Universidad:** Pontificia Universidad Javeriana
+- Apasionado por la **inteligencia artificial** y la **automatizacion**
+- Enfocado en **sistemas inteligentes y autonomos**, **optimizacion de procesos** e **Industria 4.0**
+- Aspiro a desarrollar tecnologia innovadora con **impacto social positivo**
+---
+## Areas de Interes
+| Inteligencia Artificial | Automatizacion | Industria 4.0 |
+|:---:|:---:|:---:|
+| Machine Learning | Sistemas de control | IoT industrial |
+| Toma de decisiones | Robotica | Integracion HW/SW |
+| Adaptacion dinamica | Procesos eficientes | Optimizacion |
+---
+## Stack Tecnologico
+```
+Lenguajes       -> Python . C++ . Java . TypeScript
+Control         -> MATLAB . Simulink . PLC
+Web             -> React . Node.js
+Data            -> Pandas . NumPy . SQL
+Herramientas    -> Docker . Git . Arduino . esp32 . mplab X IDE
+```
+---
+## Metas Profesionales
+- Crear **sistemas inteligentes y autonomos** que integren IA con control en tiempo real
+- Implementar soluciones de **manufactura inteligente** bajo el paradigma de Industria 4.0
+- Participar en proyectos de **tecnologia con proposito social** y ambiental
+- Seguir aprendiendo e investigando en la frontera entre **software y hardware**
