@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://juandavidrf.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
+  </a>
   <a href="https://www.linkedin.com/in/juan-david-rodriguez-franco-a67993436/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -92,7 +95,7 @@ Me interesa construir sistemas autónomos que se puedan **modelar, simular, medi
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Backend, datos y frontend**
 
@@ -121,6 +124,7 @@ Me interesa construir sistemas autónomos que se puedan **modelar, simular, medi
 
 ## Contacto
 
+- **Portafolio:** [juandavidrf.vercel.app](https://juandavidrf.vercel.app)
 - **LinkedIn:** [juan-david-rodriguez-franco](https://www.linkedin.com/in/juan-david-rodriguez-franco-a67993436/)
 - **Email:** juandrodriguezf@javeriana.edu.co
 - **Ubicación:** Bogotá, Colombia
