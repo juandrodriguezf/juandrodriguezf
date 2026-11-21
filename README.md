@@ -77,10 +77,11 @@ Me interesa construir sistemas autónomos que se puedan **modelar, simular, medi
 <details>
 <summary><strong>Aplicaciones web y móviles</strong></summary>
 
-- [API de reseñas de películas](https://github.com/juandrodriguezf/movie-reviews-api) — CRUD REST con Express, Sequelize y PostgreSQL.
+- [Movie Reviews](https://github.com/juandrodriguezf/movie-reviews-api) — app Android en Kotlin y API REST de reseñas de películas con Express, Sequelize y PostgreSQL; incluye colección Postman y documentación.
+- [RateMyPC — app Flutter](https://github.com/juandrodriguezf/app-flutter) — app multiplataforma en Flutter (Dart) a partir de RateMyPC: Android, iOS, web y escritorio.
 - [App de consulta de perfiles](https://github.com/juandrodriguezf/app-para-consultar-perfiles) — cliente en TypeScript.
 - [Centro de adopción de mascotas](https://github.com/juandrodriguezf/Centro-de-Adopcion-de-Mascotas-Java) — aplicación Java orientada a objetos.
-- **RateMyPc** (repositorio privado) — app Android en Kotlin y Jetpack Compose con MVVM, Hilt y Firebase; disponible para revisión.
+- **RateMyPc** (repositorio privado) — app Android nativa en Kotlin con Jetpack Compose, MVVM, Hilt y Firebase; disponible para revisión (versión pública reimplementada en Flutter: [app-flutter](https://github.com/juandrodriguezf/app-flutter)).
 
 </details>
 
@@ -132,4 +133,4 @@ Me interesa construir sistemas autónomos que se puedan **modelar, simular, medi
 
 ---
 
-<p align="center"><sub>Última actualización: octubre de 2026</sub></p>
+<p align="center"><sub>Última actualización: noviembre de 2026</sub></p>
